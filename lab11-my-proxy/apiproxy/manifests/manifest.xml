@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:8e7d7d70610d8baae3ee8d32f298be58458e23158da0dc01995b7d84a4ea249f966054c2cea59b0df99724edf8dae690e1668349809a2efa85b751d018fca9b0"/>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:d0773ac940b5971a535b9d234f97a7ba9becba13ebd9e3a3033907ea16e00773999da590bc2c1562dfc5a22d3913668aab8e72dca9159d149e3f6213b88e2fae"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:231ec461539cab963434dbba0f1525ddf633c644ef326d0f9313f220069d73dba309a80583e19e6bebdf99b310938e6afa0618f3cc4b343f26925e3fac639663"/>
+        <VersionInfo resourceName="add-cors" version="SHA-512:08cc2ef69b08ee73467f7be74960047faa490fcc61ebba744cc1436358ed8068b052ee8c6e101ad00a5d54633c92d8195f7ed624372a59614265f0e515a1b5a1"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:fb1d19cb3f17b352e1b0a464deefcd5ef9d45e8a85393ec22077c0970b4186f520142cd091628f4f23d102833c46791087d843bbbb3b713979233c0da2989406"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:b1252d5d311683fe2115352d401b93512841396c6168858bf26639b988c3d15299a5002a9e51f9bc8de1f60d1a1bf6166313f9131d0a104d62f27f59023dd500"/>
+    </TargetEndpoints>
+</Manifest>

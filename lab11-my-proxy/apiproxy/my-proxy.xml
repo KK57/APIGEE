@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="my-proxy">
+    <Basepaths>/my-proxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1571222641878</CreatedAt>
+    <CreatedBy>mikeannau@google.com</CreatedBy>
+    <Description>my first proxy</Description>
+    <DisplayName>my-proxy</DisplayName>
+    <LastModifiedAt>1571382618823</LastModifiedAt>
+    <LastModifiedBy>mikeannau@google.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0e933979a1f7c397e4e5495ddc833a3b96403959957cce052a3f7594ff984005212f4cab24911fbcebc260d4753ddc5f68227b212324f24871704f91d38afa53</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+        <Policy>add-cors</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
