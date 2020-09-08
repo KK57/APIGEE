@@ -8,7 +8,7 @@ steps:
   secretEnv: ['USERNAME', 'PASSWORD']
 
 secrets:
-  - kmsKeyName: projects/apigee-test-288807/locations/global/keyRings/kr-apigee/cryptoKeys/k-apigee
+  - kmsKeyName: projects/{_PROJECTID}/locations/global/keyRings/kr-apigee/cryptoKeys/k-apigee
     secretEnv:
       USERNAME: CiQAEP+ueYpPgQuBelux/FcOLSlV0PNd3MCdS+8cbYTfL11DqxUSRAC4Cu4jdcGADJIfsssQH7g+tBMDqnfKUNjVmDnFhLK0J7l2fqm1TLvVP4AFT+uZ4UwJZm7954oJ4LO5xfnab6QT79g/
       PASSWORD: CiQAEP+uedj3nE510zndtVFcgJE7wndpLEuVyqHuK9zNPfPnt5ESMQC4Cu4jXZfQLIrwVxKn7Q69COBot+povLbhid0lxiNZkH1lQekBGKvRJbX6VX1royo=
