@@ -10,5 +10,5 @@ steps:
 secrets:
   - kmsKeyName: projects/carrefour-288801/locations/global/keyRings/kr-apigee/cryptoKeys/k-apigee
     secretEnv:
-      USERNAME: CiQAEP+ueYpPgQuBelux/FcOLSlV0PNd3MCdS+8cbYTfL11DqxUSRAC4Cu4jdcGADJIfsssQH7g+tBMDqnfKUNjVmDnFhLK0J7l2fqm1TLvVP4AFT+uZ4UwJZm7954oJ4LO5xfnab6QT79g/
-      PASSWORD: CiQAEP+uedj3nE510zndtVFcgJE7wndpLEuVyqHuK9zNPfPnt5ESMQC4Cu4jXZfQLIrwVxKn7Q69COBot+povLbhid0lxiNZkH1lQekBGKvRJbX6VX1royo=
+      USERNAME: CiQAwOQGphlIv7qb5h9x1GdzYMByYNjp+52cngHxrM7fpWlvJMoSQQCWEK5menWynShdPO1HsXQSJU6ZfK4NjnquJHUYl8B1rm7pSTiLtxTFrVdb2hU0cSsLFdqTrBDGS8Cqc0RWOhb8
+      PASSWORD: CiQAwOQGpuVan2rAscku2vX5RfI1O7YkLqNrWBKaciwbGgFxaY4SMQCWEK5m80i+3CXmg0klwiKPyb2v5r32ef4HNcyMNHn7xq8E+Y0ONGz9R3lezCieEt8=
