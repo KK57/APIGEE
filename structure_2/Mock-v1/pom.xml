@@ -17,8 +17,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>apigee</groupId>
-	<artifactId>mock</artifactId>
+	<artifactId>mock1</artifactId>
 	<version>1.0</version>
-	<name>Mock-v1</name>
+	<name>Mock-v2</name> <!--proxy name-->
 	<packaging>pom</packaging>
 </project>

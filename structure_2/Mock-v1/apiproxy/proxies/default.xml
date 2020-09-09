@@ -49,7 +49,7 @@
         </Flow>
     </Flows>
     <HTTPProxyConnection>
-        <BasePath>/replaced_by_config_json</BasePath>
+        <BasePath>/replaced_by_config_json</BasePath> <!--url，如果有config.json的時候，會用config.json的內容，而不使用這邊的設定-->
         <Properties/>
         <VirtualHost>secure</VirtualHost>
     </HTTPProxyConnection>
