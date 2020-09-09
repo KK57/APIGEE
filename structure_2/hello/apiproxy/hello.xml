@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="hello">
+    <Basepaths>/hello</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1597886802047</CreatedAt>
+    <CreatedBy>kktry.iie98g@g2.nctu.edu.tw</CreatedBy>
+    <Description></Description>
+    <DisplayName>hello</DisplayName>
+    <HostedManifestVersion>SHA-512:234c9a55d30ce1d4f1fc0c30ec1120e70f93024883194b38f05eeb6101e6b60ffcc712bcf8b2b28d477442e1dcbde0eee94b500321b344c1d63a4bcbdd97b7c3:ap-northeast-1</HostedManifestVersion>
+    <LastModifiedAt>1598514085705</LastModifiedAt>
+    <LastModifiedBy>kktry.iie98g@g2.nctu.edu.tw</LastModifiedBy>
+    <ManifestVersion>SHA-512:655c026f0c998c55a9cfd56a1fd1f4201cf2e550c5c74998c930510eef2c4192fbb4a26bf8be6032a5917dcb9f65b1d0cd2328f96f672f8e31ab43e8a209899c</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>hosted://app.yaml</Resource>
+        <Resource>hosted://index.js</Resource>
+        <Resource>hosted://package.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

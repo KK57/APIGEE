@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:f46ad4fe80a520f762eeabca0b0dbfb7db6431a668de537eaaa38785312676e6346c8aed81cc01878557707b105f549f4c81e404e3793412aa3387fd50d5daac"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:f7a505b64d04d747fab13e2437bfdf63ae1859119e978ffe87635400309136710fe70d7c38b7c4e08acfb0af15668aca2abb62768e7841d32cd0a387df02fe8c"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:3ab3806dd332b524ea9d811cd8d8cae1f7ee18e53630f1f71c5e8acb83a5474a1109627c8c87dc52bcb20a7de508857ea02e7d7342a45c656e0eed95b962ff7a"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="hosted://app.yaml" version="SHA-512:1d45d91f576f9845b1fbd64bac13b1591da466b268eabb413190007c425cb486c43a281154babb8cd9994bd32ae5a9a1efb6b90bc73e2e7a94ad27b8fd2f5245"/>
+        <VersionInfo resourceName="hosted://index.js" version="SHA-512:1ab939fa653e2a1cfc3fec51f893729d48c4c00528daa3c4a6e4ba6f957bab2720b5fe17af7add4813268833c2263c39be5e2ce8f853b73959455313d6096583"/>
+        <VersionInfo resourceName="hosted://package.json" version="SHA-512:d0266e8ec66d4343d3146430e67168bb272aae27167beed88eab62380226550e816ccc5bf15ea7e68601f1de9556489ac149e6f9ea6ad36acbf1217401f5c419"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c14f933022edb5e9569d446c425e8cd51c63fa16385745e5d251819ae0c5e9c964f63c1a4b72a0c9c8bdc2108a83d2135737ab22ca1549f122ac002e48a6d3b5"/>
+    </TargetEndpoints>
+</Manifest>
