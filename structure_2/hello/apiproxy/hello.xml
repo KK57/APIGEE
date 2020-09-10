@@ -16,10 +16,12 @@
     </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
+        <ProxyEndpoint>default2</ProxyEndpoint>
     </ProxyEndpoints>
     <Resources>
         <Resource>hosted://app.yaml</Resource>
         <Resource>hosted://index.js</Resource>
+        <Resource>hosted://index2.js</Resource>
         <Resource>hosted://package.json</Resource>
     </Resources>
     <Spec></Spec>

@@ -28,7 +28,16 @@
                     "tokens": [
                         {
                             "xpath": "/ProxyEndpoint/HTTPProxyConnection/BasePath",
-                            "value": "/v1/mock"
+                            "value": "/v1/mock1"
+                        }
+                    ]
+                },
+                {
+                    "name": "default2.xml",
+                    "tokens": [
+                        {
+                            "xpath": "/ProxyEndpoint/HTTPProxyConnection/BasePath",
+                            "value": "/v1/mock2"
                         }
                     ]
                 }
@@ -42,6 +51,15 @@
                             "value": "https://mocktarget.apigee.net"
                         }
                     ]
+                },
+                {
+                    "name": "default2.xml" ,
+                    "tokens": [
+                        {
+                            "xpath": "/TargetEndpoint/HostedTarget",
+                            "value": ""
+                        }
+                    ]                  
                 }
             ]
         },
