@@ -51,6 +51,15 @@
                             "value": "https://mocktarget.apigee.net"
                         }
                     ]
+                },
+                {
+                    "name": "default2.xml" ,
+                    "tokens": [
+                        {
+                            "xpath": "/TargetEndpoint/HostedTarget",
+                            "value": ""
+                        }
+                    ]                  
                 }
             ]
         },

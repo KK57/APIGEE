@@ -57,6 +57,6 @@
         <Condition>(proxy.pathsuffix MatchesPath "/json") and (request.verb = "GET")</Condition>
     </RouteRule>
     <RouteRule name="default">
-        <TargetEndpoint>default</TargetEndpoint>
+        <TargetEndpoint>default2</TargetEndpoint>
     </RouteRule>
 </ProxyEndpoint>
