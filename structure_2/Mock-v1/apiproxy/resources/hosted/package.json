@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "author": "",
   "license": "",
   "description": "Hello World Application",
   "dependencies": {
+    "mysql": "^2.18.1",
+    "pg": "^8.3.3"
   }
 }
