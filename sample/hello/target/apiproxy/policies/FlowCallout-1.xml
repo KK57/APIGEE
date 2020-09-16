@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><FlowCallout async="false" continueOnError="false" enabled="true" name="Flow-Callout-1">
+    <DisplayName>Flow Callout-1</DisplayName>
+    <FaultRules/>
+    <Properties/>
+    <SharedFlowBundle>getConfig</SharedFlowBundle>
+</FlowCallout>
